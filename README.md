@@ -1,5 +1,8 @@
 # CodeReviewBot 🤖
 
+> **Created by Antono**
+
+
 An intelligent GitHub Pull Request code review automation tool powered by GPT-4.
 
 ## ✨ Features
